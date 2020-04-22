@@ -1,0 +1,76 @@
+body {
+ /*background-image:url('../imagens/roleta.jpg'); */
+
+ background-color: black;
+ background-repeat: no-repeat;
+ background-size:100%;
+}
+a{
+
+	font-family: times new roman;
+
+}
+
+
+#LoginButton{
+
+
+	width: 350px;
+    text-align: center;
+    padding: 15px 20px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background-color: transparent;
+    font-size: 18px;
+    color: red;
+    border:1px solid red;
+    font-family:"time new roman";
+    
+
+ }
+
+#RegisterButton{
+
+
+	width: 350px;
+    text-align: center;
+    padding: 15px 20px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background-color: transparent;
+    font-size: 18px;
+     color: blue;
+    border:1px solid blue;
+    font-family:"times new roman";
+    
+}
+
+#texto{
+
+	color: #ffffff;
+	font-family:"base 02";
+	font-size: 50px;
+	text-align:center;
+
+
+
+}
+#SafeBetLogo{
+
+
+	 display: block;
+    margin-left: auto;
+    margin-right: auto;
+    left:310px;
+
+	
+}
+
+#botoes{
+
+    position: relative;
+    top: -20px;
+  left: 310px;
+
+
+}

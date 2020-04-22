@@ -1,0 +1,71 @@
+ body {
+    height:100%; 
+    width:100%;
+    background-color:#4876FF;
+
+ }
+.col{
+
+        top: 10%;
+        left: 25%;
+ 
+        
+}
+
+#vermelho{
+
+
+	width: 450px;
+    text-align: center;
+    padding: 15px 20px;
+ 
+
+ }
+
+#verde{
+
+
+	width: 450px;
+    text-align: center;
+    padding: 15px 20px;
+  
+    
+}
+#preto{
+
+    width: 450px;
+    text-align: center;
+    padding: 15px 20px;
+ 
+    
+    
+}
+
+#quantidadeApostada{
+
+
+
+position: relative;
+    top: -20px;
+  left: 30px;
+
+}
+
+#backup{
+    border-radius: 6px;
+    background-color: transparent;
+    font-size: 18px;
+     color: black;
+    border:1px solid black;
+    font-family:"times new roman";
+       border: 1px solid #eee;
+
+      border: 1px solid #eee;
+    border-radius: 6px;
+    background-color: transparent;
+    font-size: 18px;
+     color: green;
+    border:1px solid green;
+    font-family:"times new roman";
+
+}
